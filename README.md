@@ -8,8 +8,8 @@
 - 🌱 &nbsp; Aprendendo mais sobre **C#, .NET CORE, ANGULAR, JAVASCRIPT, TYPESCRIPT, HTML5, CSS, BOOTSTRAP**.
 
 <div align="center">
-  <a href="https://github.com/Armandomsf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armandomsf&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/msfArmando">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msfArmando&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## Skills
@@ -35,5 +35,5 @@
 </div>
   <br>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Armandomsf&bg_color=000000&color=ffffff&line=009b9e&point=033954&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=msfArmando&bg_color=000000&color=ffffff&line=009b9e&point=033954&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
