@@ -4,7 +4,7 @@
 
 
 - 🎓 &nbsp; Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://grupounibra.com/">UNIBRA</a>.
-- 💼 &nbsp; Atualmente **DESEMPREGADO** buscando uma oportunidade <a href=""></a>
+- 💼 &nbsp; EMPTY<a href=""></a>
 - 🌱 &nbsp; Aprendendo mais sobre **C#, .NET CORE, ANGULAR, JAVASCRIPT, TYPESCRIPT, HTML5, CSS, BOOTSTRAP**.
 
 <div align="center">
