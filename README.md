@@ -2,17 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Armando+Filho;I'm+18+years+old;I'm+from+Brazil;I+Graduating+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-- 🎓 &nbsp; Estudando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://grupounibra.com/">UNIBRA</a>.
-- 💼 &nbsp; Desenvolvedor Estagiário em <a href="https://www.sieg.com/">SIEG SOLUÇÕES INTELIGENTES</a>
-- 🌱 &nbsp; Aprendendo mais sobre **C#, .NET CORE, ANGULAR, JAVASCRIPT, TYPESCRIPT, HTML5, CSS, BOOTSTRAP**.
-
 <div align="center">
   <a href="https://github.com/msfArmando">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msfArmando&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Skills
+## Skills - [Learning]
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">          
 <div style="display: inline_block"><br>
   <!--img align="center" alt="amsf-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"-->
