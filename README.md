@@ -28,5 +28,5 @@
 </div>
   <br>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=msfArmando&bg_color=000000&color=ffffff&line=009b9e&point=033954&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=msfArmando&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
