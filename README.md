@@ -28,5 +28,5 @@
 </div>
   <br>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=msfArmando&theme=github-compact)]
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msfArmando&theme=tokyonight)
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
