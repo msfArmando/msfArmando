@@ -7,9 +7,7 @@ Converta esse readme.md para markdown:
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=msfArmando&theme=tokyonight&date_format=j%20M%5B%20Y%5D&fire=EB5454" alt="GitHub Streak" /></a>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=msfArmando&theme=tokyonight&date_format=j%20M%5B%20Y%5D&fire=EB5454)](https://git.io/streak-stats)
 
 ---
 
