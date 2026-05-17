@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🇧🇷 Desenvolvedor brasileiro  
+- 🇧🇷 Analista de Sistemas
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas  
 - 🤖 Focado em agentes de IA, RAG, automação e aplicações backend  
 - 🧠 Trabalhando com integrações de LLMs, bancos vetoriais e soluções para WhatsApp  
