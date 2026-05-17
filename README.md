@@ -2,31 +2,29 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=32&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Armando+Monsão;Software+Developer+from+Brazil;Building+AI+agents,+RAG+and+automation;FastAPI+%7C+LangChain+%7C+PostgreSQL;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=32&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+Armando+Monsão;Desenvolvedor+de+Software+do+Brasil;Construindo+agentes+de+IA,+RAG+e+automações;FastAPI+%7C+LangChain+%7C+PostgreSQL;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 Sobre mim
 
-- 🇧🇷 Brazilian developer
-- 🎓 Graduated in Systems Development
-- 🤖 Focused on AI agents, RAG, automation and backend applications
-- 🧠 Working with LLM integrations, vector databases and WhatsApp solutions
-- 🚀 Constantly building practical solutions with Python ecosystem tools
+- 🇧🇷 Desenvolvedor brasileiro  
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas  
+- 🤖 Focado em agentes de IA, RAG, automação e aplicações backend  
+- 🧠 Trabalhando com integrações de LLMs, bancos vetoriais e soluções para WhatsApp  
+- 🚀 Construindo constantemente soluções práticas com ferramentas do ecossistema Python  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/msfArmando">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=msfArmando&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   </a>
 </div>
-
-> Note: if this card breaks intermittently, I can replace it with a more stable setup using GitHub Actions.
 
 ---
 
@@ -46,24 +44,32 @@
   <img align="center" alt="LangChain" height="60" width="80" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" />
 </div>
 
----
+<br/>
 
-## 🧠 Current focus
+<div align="center">
 
-- LangChain / LangGraph for agents, chains and RAG
-- pgvector / Chroma for vector storage
-- Playwright for advanced scraping and browser automation
-- FastAPI for REST APIs
-- Streamlit for fast interfaces
-- SQLAlchemy / asyncpg for persistence layer
-- Z-API / WhatsApp Cloud API for WhatsApp integrations
-- Whisper for voice transcription
-- Docker for deployment
-- PostgreSQL for relational databases
+**Python** · **FastAPI** · **Streamlit** · **PostgreSQL** · **SQLAlchemy** · **Docker** · **Playwright** · **SQL Server** · **Oracle Database** · **n8n** · **LangChain**
+
+</div>
 
 ---
 
-## 🌐 Contact
+## 🧠 Foco atual
+
+- LangChain / LangGraph para agentes, chains e RAG  
+- pgvector / Chroma para armazenamento vetorial  
+- Playwright para scraping avançado e automação de navegador  
+- FastAPI para APIs REST  
+- Streamlit para interfaces rápidas  
+- SQLAlchemy / asyncpg para camada de persistência  
+- Z-API / WhatsApp Cloud API para integrações com WhatsApp  
+- Whisper para transcrição de voz  
+- Docker para deployment  
+- PostgreSQL para banco de dados relacional  
+
+---
+
+## 🌐 Contato
 
 <div>
   <a href="mailto:armandomonsaof@gmail.com">
