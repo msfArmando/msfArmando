@@ -47,9 +47,9 @@
 ## 🧠 Foco atual
 
 
-- **LangChain** para criação de agentes, chains e sistemas RAG  
+- **LangChain** para criação de agentes  
 - **Playwright** para web scraping avançado e automação de navegador  
-- **FastAPI** para desenvolvimento de APIs REST de alta performance  
+- **FastAPI** para desenvolvimento de APIs REST  
 - **Streamlit** para construção rápida de interfaces e dashboards interativos  
 - **SQLAlchemy** como camada de persistência e mapeamento objeto-relacional  
 - **Docker** para containerização e consistência no ambiente de deployment  
