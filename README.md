@@ -46,16 +46,15 @@
 
 ## 🧠 Foco atual
 
-- LangChain / LangGraph para agentes, chains e RAG  
-- pgvector / Chroma para armazenamento vetorial  
-- Playwright para scraping avançado e automação de navegador  
-- FastAPI para APIs REST  
-- Streamlit para interfaces rápidas  
-- SQLAlchemy / asyncpg para camada de persistência  
-- Z-API / WhatsApp Cloud API para integrações com WhatsApp  
-- Whisper para transcrição de voz  
-- Docker para deployment  
-- PostgreSQL para banco de dados relacional  
+
+- **LangChain** para criação de agentes, chains e sistemas RAG  
+- **Playwright** para web scraping avançado e automação de navegador  
+- **FastAPI** para desenvolvimento de APIs REST de alta performance  
+- **Streamlit** para construção rápida de interfaces e dashboards interativos  
+- **SQLAlchemy** como camada de persistência e mapeamento objeto-relacional  
+- **Docker** para containerização e consistência no ambiente de deployment  
+- **PostgreSQL** / **SQL Server** / **Oracle Database** para gerenciamento de bancos de dados relacionais  
+- **n8n** para automação de fluxos de trabalho e integrações de sistemas  
 
 ---
 
