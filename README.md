@@ -28,6 +28,7 @@
   <img align="center" alt="SQLAlchemy" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
   <img align="center" alt="Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img align="center" alt="Playwright" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+  <img align="center" alt="Selenium" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
   <img align="center" alt="SQL Server" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   <img align="center" alt="Oracle" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
   <img align="center" alt="n8n" height="60" width="80" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" />
@@ -38,7 +39,7 @@
 
 <div align="center">
 
-**Python** · **FastAPI** · **Streamlit** · **PostgreSQL** · **SQLAlchemy** · **Docker** · **Playwright** · **SQL Server** · **Oracle Database** · **n8n** · **LangChain**
+**Python** · **FastAPI** · **Streamlit** · **PostgreSQL** · **SQLAlchemy** · **Docker** · **Playwright** · **Selenium** · **SQL Server** · **Oracle Database** · **n8n** · **LangChain**
 
 </div>
 
@@ -49,6 +50,7 @@
 
 - **LangChain** para criação de agentes  
 - **Playwright** para web scraping avançado e automação de navegador  
+- **Selenium** para automação web, testes e scripts de interação com navegadores  
 - **FastAPI** para desenvolvimento de APIs REST  
 - **Streamlit** para construção rápida de interfaces e dashboards interativos  
 - **SQLAlchemy** como camada de persistência e mapeamento objeto-relacional  
