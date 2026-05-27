@@ -1,4 +1,3 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 <div align="center">
@@ -26,6 +25,7 @@
   <img align="center" alt="FastAPI" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
   <img align="center" alt="Streamlit" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
   <img align="center" alt="Pandas" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="Plotly" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
   <img align="center" alt="PostgreSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="SQLAlchemy" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
   <img align="center" alt="Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-**Python** · **FastAPI** · **Streamlit** · **Pandas** · **PostgreSQL** · **SQLAlchemy** · **Docker** · **Playwright** · **Selenium** · **SQL Server** · **Oracle Database** · **n8n** · **LangChain**
+**Python** · **FastAPI** · **Streamlit** · **Pandas** · **Plotly** · **PostgreSQL** · **SQLAlchemy** · **Docker** · **Playwright** · **Selenium** · **SQL Server** · **Oracle Database** · **n8n** · **LangChain**
 
 </div>
 
@@ -51,15 +51,15 @@
 
 
 - **LangChain** para criação de agentes  
-- **Playwright** para web scraping avançado e automação de navegador  
-- **Selenium** para automação web, testes e scripts de interação com navegadores  
+- **Playwright** / **Selenium** para web scraping avançado, automação de processos e testes em navegadores  
 - **Pandas** para manipulação, tratamento e análise de dados estruturados  
-- **FastAPI** para desenvolvimento de APIs REST  
+- **Plotly** para criação de gráficos dinâmicos e visualizações de dados interativas  
+- **FastAPI** para desenvolvimento de APIs REST e integrações robustas  
 - **Streamlit** para construção rápida de interfaces e dashboards interativos  
-- **SQLAlchemy** como camada de persistência e mapeamento objeto-relacional  
+- **SQLAlchemy** como camada de persistência e mapeamento objeto-relacional (ORM)  
 - **Docker** para containerização e consistência no ambiente de deployment  
-- **PostgreSQL** / **SQL Server** / **Oracle Database** para gerenciamento de bancos de dados relacionais  
-- **n8n** para automação de fluxos de trabalho e integrações de sistemas  
+- **PostgreSQL** / **SQL Server** / **Oracle Database** para modelagem e gerenciamento de bancos de dados  
+- **n8n** para automação de fluxos de trabalho e orquestração de ecossistemas  
 
 ---
 
