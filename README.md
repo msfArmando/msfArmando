@@ -1,8 +1,4 @@
-Aqui está o seu perfil com o **Selenium** e o **Pandas** adicionados à seção de Tech Stack (ícones e texto) e aos seus focos atuais.
 
-Pode copiar e colar o código abaixo diretamente no seu arquivo `README.md`:
-
-```markdown
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 <div align="center">
@@ -84,5 +80,3 @@ Pode copiar e colar o código abaixo diretamente no seu arquivo `README.md`:
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
-
-```
