@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=32&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+Armando+Monsão;Desenvolvedor+de+Software+do+Brasil;Construindo+agentes+de+IA,+RAG+e+automações;FastAPI+%7C+LangChain+%7C+PostgreSQL;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=32&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+Armando+Monsão;Desenvolvedor+Backend+Python+do+Brasil;Construindo+agentes+de+IA,+RAG+e+integrações+de+APIs;FastAPI+%7C+PostgreSQL+%7C+LangChain;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,10 +10,10 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🇧🇷 Analista de Sistemas
+- 🇧🇷 Analista de Sistemas e desenvolvedor backend Python  
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas  
-- 🤖 Focado em agentes de IA, RAG, automação e aplicações backend  
-- 🧠 Trabalhando com integrações de LLMs, bancos vetoriais e soluções para WhatsApp  
+- 🤖 Focado em agentes de IA, RAG, integrações de APIs e aplicações backend  
+- 🧠 Trabalhando com LLMs, bancos de dados relacionais e automação de processos  
 - 🚀 Construindo constantemente soluções práticas com ferramentas do ecossistema Python  
 
 ---
@@ -23,13 +23,11 @@
 <div align="center">
   <img align="center" alt="Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="FastAPI" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-  <img align="center" alt="Streamlit" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
-  <img align="center" alt="Pandas" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-  <img align="center" alt="Plotly" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
+  <img align="center" alt="Pydantic" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pydantic/pydantic-original.svg" />
   <img align="center" alt="PostgreSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="SQLAlchemy" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
   <img align="center" alt="Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img align="center" alt="Playwright" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+  <img align="center" alt="Pytest" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
   <img align="center" alt="Selenium" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
   <img align="center" alt="SQL Server" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   <img align="center" alt="Oracle" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
@@ -41,7 +39,7 @@
 
 <div align="center">
 
-**Python** · **FastAPI** · **Streamlit** · **Pandas** · **Plotly** · **PostgreSQL** · **SQLAlchemy** · **Docker** · **Playwright** · **Selenium** · **SQL Server** · **Oracle Database** · **n8n** · **LangChain**
+**Python** · **FastAPI** · **Pydantic** · **PostgreSQL** · **SQLAlchemy** · **Docker** · **Pytest** · **APIs REST** · **Selenium** · **SQL Server** · **Oracle Database** · **n8n** · **LangChain** · **RAG** · **AI Agents**
 
 </div>
 
@@ -49,17 +47,15 @@
 
 ## 🧠 Foco atual
 
-
-- **LangChain** para criação de agentes  
-- **Playwright** / **Selenium** para web scraping avançado, automação de processos e testes em navegadores  
-- **Pandas** para manipulação, tratamento e análise de dados estruturados  
-- **Plotly** para criação de gráficos dinâmicos e visualizações de dados interativas  
-- **FastAPI** para desenvolvimento de APIs REST e integrações robustas  
-- **Streamlit** para construção rápida de interfaces e dashboards interativos  
-- **SQLAlchemy** como camada de persistência e mapeamento objeto-relacional (ORM)  
-- **Docker** para containerização e consistência no ambiente de deployment  
-- **PostgreSQL** / **SQL Server** / **Oracle Database** para modelagem e gerenciamento de bancos de dados  
-- **n8n** para automação de fluxos de trabalho e orquestração de ecossistemas  
+- **FastAPI** para desenvolvimento de APIs REST, integrações robustas e serviços backend  
+- **Pydantic** e **SQLAlchemy** como base de validação e persistência de dados  
+- **PostgreSQL** como banco principal, com experiência também em **SQL Server** e **Oracle Database**  
+- **Docker** para containerização, ambientes reproduzíveis e preparação para deploy  
+- **Pytest** para testes automatizados e garantia de qualidade em serviços backend  
+- **Integração de APIs** (REST, webhooks, serviços externos) para compor soluções completas  
+- **LangChain**, **LangGraph** e **LangSmith** para construção, orquestração e observabilidade de agentes de IA e fluxos RAG  
+- **Selenium** e automações com Python para tarefas repetitivas, scraping e integrações com sistemas legados  
+- **n8n** para automação de fluxos de trabalho e orquestração entre serviços, APIs e agentes  
 
 ---
 
