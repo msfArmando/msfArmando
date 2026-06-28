@@ -23,7 +23,7 @@
 <div align="center">
   <img align="center" alt="Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="FastAPI" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-  <img align="center" alt="Pydantic" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pydantic/pydantic-original.svg" />
+  <img align="center" alt="Pydantic" height="60" width="80" src="https://github.com/pydantic/brand/blob/main/pydantic-logo-square-1000px-transparent.svg" />
   <img align="center" alt="PostgreSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="SQLAlchemy" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
   <img align="center" alt="Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
