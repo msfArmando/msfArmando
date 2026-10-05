@@ -1,38 +1,32 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+# Armando Monsão
 
 <div align="center">
 
-![](https://hit.yhype.me/github/profile?account_id=82972333)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=32&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+Armando+Monsão;Desenvolvedor+Backend+Python+do+Brasil;Construindo+agentes+de+IA,+RAG+e+integrações+de+APIs;FastAPI+%7C+PostgreSQL+%7C+LangChain;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+**Backend developer | FastAPI | SQLAlchemy | Pytest | Docker**
 
 </div>
 
----
+Sou um desenvolvedor de software em migração de carreira com experiência no desenvolvimento de APIs REST, integrações e automações.
 
-## 👨‍💻 Sobre mim
+Atualmente, como Analista de Sistemas com foco em desenvolvimento, desenvolvo soluções back-end com Fast API para APIs REST, SQL Alchemy e Alembic para ORM e migrações de banco de dados, testes automatizados com Pytest, containerização com Docker e Portainer, versionamento com Git e GitHub e CI/CD com GitHub Actions.
 
-- 🇧🇷 Analista de Sistemas e desenvolvedor backend Python  
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas  
-- 🤖 Focado em agentes de IA, RAG, integrações de APIs e aplicações backend  
-- 🧠 Trabalhando com LLMs, bancos de dados relacionais e automação de processos  
-- 🚀 Construindo constantemente soluções práticas com ferramentas do ecossistema Python  
+No dia-a-dia, mantenho o foco em código limpo, organização e boas práticas de desenvolvimento, trabalhando para resolver problemas reais de negócio com soluções modernas e escaláveis. Meus repositórios, mostram meus estudos, experimentos e projetos, que refletem minha evolução e desempenho como desenvolvedor back-end.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
   <img align="center" alt="Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="FastAPI" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-  <img align="center" alt="Pydantic" height="60" width="80" src="https://github.com/pydantic/brand/blob/main/pydantic-logo-square-1000px-transparent.svg" />
-  <img align="center" alt="PostgreSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="SQLAlchemy" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
   <img align="center" alt="Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img align="center" alt="Pytest" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
-  <img align="center" alt="Selenium" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+<br/>
   <img align="center" alt="SQL Server" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   <img align="center" alt="Oracle" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  <img align="center" alt="PostgreSQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<br/>
   <img align="center" alt="n8n" height="60" width="80" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" />
   <img align="center" alt="LangChain" height="60" width="80" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" />
 </div>
@@ -41,40 +35,45 @@
 
 <div align="center">
 
-**Python** · **FastAPI** · **Pydantic** · **PostgreSQL** · **SQLAlchemy** · **Docker** · **Pytest** · **APIs REST** · **Selenium** · **SQL Server** · **Oracle Database** · **n8n** · **LangChain** · **RAG** · **AI Agents**
+**Python** · **FastAPI** · **SQLAlchemy** · **Docker** · **Pytest** · **SQL Server** · **Oracle** · **PostgreSQL** · **n8n** · **LangChain**
 
 </div>
 
 ---
 
-## 🧠 Foco atual
+## Currently Working With
 
-- **FastAPI** para desenvolvimento de APIs REST, integrações robustas e serviços backend  
-- **Pydantic** e **SQLAlchemy** como base de validação e persistência de dados  
-- **PostgreSQL** como banco principal, com experiência também em **SQL Server** e **Oracle Database**  
-- **Docker** para containerização, ambientes reproduzíveis e preparação para deploy  
-- **Pytest** para testes automatizados e garantia de qualidade em serviços backend  
-- **Integração de APIs** (REST, webhooks, serviços externos) para compor soluções completas  
-- **LangChain**, **LangGraph** e **LangSmith** para construção, orquestração e observabilidade de agentes de IA e fluxos RAG  
-- **Selenium** e automações com Python para tarefas repetitivas, scraping e integrações com sistemas legados  
-- **n8n** para automação de fluxos de trabalho e orquestração entre serviços, APIs e agentes  
+### Backend Engineering
+- Python | FastAPI · REST APIs · Clean Code
+
+### ORM & Data Modeling 
+- SQLAlchemy · Alembic
+
+### Testing & Quality
+- Pytest · Testes Unitários e de Integração
+
+### Infrastructure & DevOps
+- Docker · Containers
+
+### Database Management
+- Relational Databases | PostgreSQL · SQL Server · Oracle Database
+
+### AI Engineering & Automation
+- AI Frameworks | LangChain · AI Agents
+- Workflow Automation | n8n Integrations & Systems Integration
 
 ---
 
-## 🌐 Contato
+## Connect with me
 
-<div>
-  <a href="mailto:armandomonsaof@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/armando-mons%C3%A3o-a53642203/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=5581983906576&text&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
+<div align="center">
+
+<a href="mailto:giuliaaraujof@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/giulia-freulon-8a01752a5">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
